@@ -1,0 +1,304 @@
+{
+    "app": {
+        "components": {
+            "AccordionBlock": {
+                "bodyTitle": "The solution:"
+            },
+            "AdditionalInformation": {
+                "detailHeader": "We need some additional information",
+                "detailText": "We would require your",
+                "employmentDetails": "Employment Details",
+                "personalDetails": "Personal Details",
+                "residentialDetails": "Residential Details"
+            },
+            "Apply": {
+                "applyWaiting": "What are you waiting for?",
+                "clickToApply": "Click here to apply"
+            },
+            "Banner": {
+                "bannerAgreeKLOP": "*By clicking get started, I agree to KLOP’s ",
+                "bannerExclusive": "EXCLUSIVELY FOR YOU",
+                "bannerLoanAmount": "Get loan up to",
+                "bannerPrice": "IDR3,000,000*",
+                "bannerPrivacy": " Privacy Policy",
+                "bannerTerms": "Terms of service",
+                "bannerTitle": "Finding the best credit product suited to your needs.",
+                "getStarted": "Get started now"
+            },
+            "Contact": {
+                "contactText": "<a href='mailto:bantuan@klop.co'>bantuan@klop.co</a>",
+                "contactTitle": "Contact"
+            },
+            "CookiePolicy": {
+                "cookiePolicyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor magna eget est lorem ipsum. Donec enim diam vulputate ut pharetra sit amet aliquam. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Libero id faucibus nisl tincidunt eget nullam non nisi est. Faucibus a pellentesque sit amet porttitor eget dolor morbi non. Pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Praesent semper feugiat nibh sed pulvinar proin.",
+                "cookiePolicyTitle": "Cookie Policy"
+            },
+            "CreditLimit": {
+                "creditLimitAmount": "Credit Limit",
+                "creditLimitDate": "30 Days",
+                "creditLimitHere": "here",
+                "creditLimitLoanDuration": "Loan Duration",
+                "creditLimitMoney": "IDR {amount}",
+                "creditLimitMonth": "1 month",
+                "creditLimitTenor": "Tenor",
+                "creditLimitTerms": "Your repayment terms & conditions can be found {button}",
+                "creditLimitValid": "This pre-approval is valid for only 30 days "
+            },
+            "Faq": {
+                "faqQuestionEight": "How to activate my Kredivo account?",
+                "faqQuestionEighteen": "Who can be reach out to for help?",
+                "faqQuestionEleven": "Aside personal loan, how and where can I shop with Kredivo?",
+                "faqQuestionFifteen": "Can I reapply my application upon getting rejected before?",
+                "faqQuestionFive": "What's Kredivo requirement?",
+                "faqQuestionFour": "How much is Kredivo Credit Limit?",
+                "faqQuestionFourteen": "Is my information sefe with Kredivo?",
+                "faqQuestionNine": "How long personal loan will be disbursed to user?",
+                "faqQuestionOne": "What is Klop! x Kredivo ?",
+                "faqQuestionSeven": "Which document should be provided to apply Kredivo?",
+                "faqQuestionSeventeen": "I am not keen on receiving the offer, what should I do?",
+                "faqQuestionSix": "How to apply Kredivo via Klop! ?",
+                "faqQuestionSixteen": "What if i don't activate my account upon requested date?",
+                "faqQuestionTen": "Where the personal loan fund will be transfered?",
+                "faqQuestionThirteen": "How to pay my Kredivo bill?",
+                "faqQuestionThree": "What kind of features and services provided by Klop! x Kredivo ?",
+                "faqQuestionTwelve": "When my bill will be due?",
+                "faqQuestionTwo": "Who is eligible to register Kredivo via Klop! ?",
+                "faqSolutionEight": "If your application has been aproved, you will be sent SMS and email notification to activate your account. Select the link in the email or SMS to activate your account. <br><br>To continue, you should enter OTP code that we sent via SMS, set 6 digits PIN and answer 1 security question. <br><br>If success, you will receive email confirmation and Kredivo agreement to activate account from DocuSign. In the agreement you can find your ID card, your personal info and agreement that you agree as Kredivo user. <br><br>This agreement will have your digital signature and is legally binding and has legal force.",
+                "faqSolutionEighteen": "You can email us at bantuan@klop.co",
+                "faqSolutionEleven": "You can pay with Kredivo in 350+ merchants online and offline. You only have to select Kredivo as your payment method in merchant's checkout website. <br><br>To continue, you should enter registered phone number and PIN, then enter OTP that we sent via SMS to confirm your transaction. ",
+                "faqSolutionFifteen": "Yes, sure. Once rejected, you can re-apply in 3 months. <br>To improve the odds, try making more e-commerce transaction and pray more often so that your application can be approved. Don't forget to re-apply and may the force be with you.",
+                "faqSolutionFive": "To apply Kredivo, you should comply these following requirements:<br>- Indonesian citizen<br>- Age between 18 - 60 years old<br>- Located in Jabodetabek, Bandung, Surabaya, Semarang, Palembang, Medan, Bali, Yogyakarta, Solo,    Makassar, Malang, Sukabumi, Cirebon<br>- Minimum monthly income Rp 3.000.000",
+                "faqSolutionFour": "Pay in 30 days, you can get limit up to Rp 3.000.0000",
+                "faqSolutionFourteen": "Yes, protecting your personal information is our top priority. We encrypt all sensitive data. We also provide physical, electronic and procedural safeguards to protect your information. We do not sell or rent your information to anyone unless required by the relevant agency to issue your loan or it is required to be given to the regulator.",
+                "faqSolutionNine": "The fund will be disbursed maximum 1 working day. If you haven't receieved the fund within said duration, please contact our customer service in 0807-1-573348.",
+                "faqSolutionOne": "Klop! x Kredivo is a partnership program where Kredivo as a provider for instant credit solution gives you access to get instant cash advance in 30 days to pay back.With instant approval, Kredivo gives you the freedom to fulfill all your needs now, pay later!",
+                "faqSolutionSeven": "You should upload this following documents: <br>- ID card - KTP <br>- Selfie",
+                "faqSolutionSeventeen": "We will help you to make a report and will be followed up in accordance with standard procedures at Telkomsel",
+                "faqSolutionSix": "You can apply for Kredivo via link that we sent through SMS.",
+                "faqSolutionSixteen": "The due to activate your account is up to 30 days. Once you're late, you cannot activate your account. But don't worry, you can always re-apply via Kredivo app and re-do the whole registration process. Best of luck!",
+                "faqSolutionTen": "Your personal loan will be disbursed to your registered bank account that you select in application process.",
+                "faqSolutionThirteen": "Payment information and method will be sent via SMS and email once your loan request has been approved. In email, you can check payment instruction and virtual account channel to pay your bill.  You can pay via BCA, Mandiri, Permata, Indomaret, Alfamart, or Tokopedia virtual account. <br>Moreover, you can download Kredivo app and follow these following steps for payment: <br>1. Open your Kredivo app. Click Transaction then Pay. Select transaction that you want to pay. <br>2. Make payment thru your selected virtual account channel. If you select via ATM/ Bank, The bill will have same amount as your selected transaction. <br>3. If you skip step 1, you will see total bill amount from all of your transactions when you want to pay via VA channel. <br>For BCA and Permata channel, you can self input your paid amount. While, for Mandiri, Indomaret and Alfamart channel,  you should follow step-1 to pay certain transaction. <br>Special case for Alfamart channel, you can only make one payment per day. Moreover, you can also pay your Kredivo bill via Tokopedia by simply open Tokopedia website, go to Payment & Top Up page then choose credit installment. <br>Once you received payment reminder email and only want to pay based on amount stated on the email, you should follow step-1.",
+                "faqSolutionThree": "With Kredivo credit limit you can apply for personal loan request up to Rp 3.000.000 with interest as low xx% compared to other financial institutions.<br><br>Moreover, your Kredivo credit limit can be used as payment in 350+ merchants online & offline which offer you a wide range of products & categories, from fashion, data package, airplane ticket or gadget and electronics with no credit card needed.",
+                "faqSolutionTitle": "The solution:",
+                "faqSolutionTwelve": "Your bill will be due in 30 days cycle from your approval date. The due date details will be notified via email and SMS that we sent right after loan has been approved. <br>Moreover, you can also check your loan details via Kredivo app. ",
+                "faqSolutionTwo": "Short listed Telkomsel users that received SMS invitation to get a credit limit opportunity up to IDR 3,000,000. ",
+                "faqTitle": "FAQ"
+            },
+            "Footer": {
+                "footerContact": "Contact",
+                "footerCookiePolicy": "Cookie Policy",
+                "footerPrivacyPolicy": "Privacy Policy",
+                "footerRights": "© 2020 KLOP. All rights reserved.",
+                "footerTermsOfUse": "Terms Of Use",
+                "footerText": "Klop is lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium enim in placerat eleifend. Vivamus porttitor pellentesque sapien ac suscipit. Phasellus efficitur nisi eu dolor efficitur, ut lacinia mi venenatis."
+            },
+            "FormEmploymentDetail": {
+                "employmentStatus": "Employment Status",
+                "employmentStatusError": "Please select an option from the list",
+                "formHeader": "Enter your employment details",
+                "formTips": "We'll need some of your information to proceed with the application",
+                "monthlyNettSalary": "Monthly Nett Salary",
+                "monthlyNettSalaryError": "Please fill in your monthly nett salary",
+                "occupation": "Occupation",
+                "occupationError": "Please select an option from the list",
+                "workingExperience": "Total Working Experience",
+                "workingExperienceError": "Please fill in your total working experience"
+            },
+            "FormKredivoAccountCheck": {
+                "kredivoNo": "No",
+                "kredivoText": "Do you have a Kredivo account?",
+                "kredivoYes": "Yes"
+            },
+            "FormPersonalDetail": {
+                "dateOfBirth": "Date of Birth (dd/mm/yyyy)",
+                "dateOfBirthError": "Please fill in your date of birth",
+                "email": "Email Address",
+                "emailError": "Please fill in your email address",
+                "formHeader": "Enter your personal detail",
+                "formTips": "We'll need some of your information to proceed with the application",
+                "fullName": "Full Name as per KTP",
+                "fullNameError": "Please fill in your full name as per KTP",
+                "lastEducation": "Last Education Level",
+                "lastEducationError": "Please select an option from the list",
+                "maritalStatus": "Marital Status",
+                "maritalStatusError": "Please select an option from the list",
+                "motherName": "Mother's Maiden Full Name",
+                "motherNameError": "Please fill in your mother's maiden full name",
+                "nik": "NIK Number",
+                "nikError": "Please fill in your NIK number",
+                "numberOfDependants": "Number of Dependants",
+                "numberOfDependantsError": "Please fill in your number of dependants"
+            },
+            "FormResidentialDetail": {
+                "formHeader": "Enter your residential details",
+                "formTips": "We'll need some of your information to proceed with the application",
+                "postalCode": "Postal Code",
+                "postalCodeError": "Please fill in your postal code",
+                "residentialError": "Please fill in your residential details",
+                "residentialLine1": "Street Name",
+                "residentialLine2": "Location Details"
+            },
+            "FormUploadDocuments": {
+                "ktpSubTitle": "Place your KTP in the area",
+                "ktpTitle": "KTP Capture",
+                "primaryCameraError": "Could not open Back Camera, please try again!",
+                "secondaryCameraError": "Could not open Front Camera, please try again!",
+                "selfieSubTitle": "Position your face in the oval shape",
+                "selfieTitle": "Selfie Capture",
+                "uploadDocumentsSubtitle": "Keep calm & continue, your data will be protected by Klop!",
+                "uploadDocumentsTitle": "Upload your identification documents",
+                "uploadKTP": "KTP",
+                "uploadSelfie": "Selfie"
+            },
+            "InputPostalCode": {
+                "addressLevel": "Address Level {level}",
+                "addressLevel1Error": "Please select an option from the list",
+                "noOptions": "No options",
+                "postalCode": "Postal Code",
+                "postalCodeError": "Please fill in your postal code"
+            },
+            "LoanRepayment": {
+                "loanRepaymentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor magna eget est lorem ipsum. Donec enim diam vulputate ut pharetra sit amet aliquam. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Libero id faucibus nisl tincidunt eget nullam non nisi est. Faucibus a pellentesque sit amet porttitor eget dolor morbi non. Pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Praesent semper feugiat nibh sed pulvinar proin.",
+                "loanRepaymentTitle": "Loan Repayment"
+            },
+            "OTP": {
+                "OTPHeader": "Enter the OTP",
+                "OTPText": "We have sent a OTP (One time passcode) to your mobile number at +62 {phoneNumber}.",
+                "counterText": " in {current} seconds",
+                "notReceiveOTPText": "I haven't receive a code",
+                "resendOTPText": "Resend OTP",
+                "validationError": "Invalid token. Please try again."
+            },
+            "PendingFaq": {
+                "PendingFaqFaq": "Read our FAQ",
+                "PendingFaqQuestions": "Have more questions? "
+            },
+            "PhoneNumber": {
+                "phoneNumberHeader": "Verify your phone number",
+                "phoneNumberText": "By continuing you may receive a SMS for verification.",
+                "validationError": "Please enter the number with a right number of digits."
+            },
+            "PrivacyPolicy": {
+                "privacyPolicyText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor magna eget est lorem ipsum. Donec enim diam vulputate ut pharetra sit amet aliquam. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Libero id faucibus nisl tincidunt eget nullam non nisi est. Faucibus a pellentesque sit amet porttitor eget dolor morbi non. Pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada. Nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Praesent semper feugiat nibh sed pulvinar proin.",
+                "privacyPolicyTitle": "Privacy Policy"
+            },
+            "Rate": {
+                "rateButton": "Submit now",
+                "rateDescription": "(1 - Not likely, 10 - Most likely)",
+                "rateText": "How likely would you be to recommend us to your friends?",
+                "rateTitle": "Rate your experience"
+            },
+            "TermsAndConditions": {
+                "body": "I certify that all information given is correct and agree with Klop's {dataProtectionButton}",
+                "creditScoreModelConsent": "Credit Score Model Consent",
+                "dataProtectionConsent": "Data Protection Consent"
+            },
+            "TermsOfUse": {
+                "termsOfUseTextOne": "",
+                "termsOfUseTextThree": "",
+                "termsOfUseTextTwo": "",
+                "termsOfUseTitle": " "
+            },
+            "WhyKLOP": {
+                "whyKlopCompetitive": "Competitive Interest Rates",
+                "whyKlopCompetitiveDescription": "Super competitive interest rates among others with only 2.95% per month",
+                "whyKlopInstantApproval": "Instant approval & disbursement",
+                "whyKlopInstantApprovalDescription": "Get loan up to Rp3,000,000 for 30 days tenor that will be instantly approved and disbursed to your bank account in hours.",
+                "whyKlopMinimalDocumentation": "Minimal Documentation",
+                "whyKlopMinimalDocumentationDescription": "Hassle-free process with all digitalized documentations.",
+                "whyKlopTitle": "Why KLOP?"
+            }
+        },
+        "containers": {
+            "ApplicationRejected": {
+                "applicationRejectedSubText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna",
+                "applicationRejectedSubTitle": "Sorry, your application has been rejected",
+                "applicationRejectedText": "Maaf, aplikasimu belum disetujui",
+                "applicationRejectedTitle": "Application Rejected"
+            },
+            "ApplicationSubmitted": {
+                "applicationSubmittedNext": "What’s coming up next?",
+                "applicationSubmittedSubText": "You will receive a SMS on the approval of your account within 2 hours to proceed with the disbursement.",
+                "applicationSubmittedSubTitle": "Receive a SMS or Email on the approval",
+                "applicationSubmittedText": "Aplikasi Akun Basic-mu Sedang Diproses",
+                "applicationSubmittedTitle": "Application submitted"
+            },
+            "ErrorPage": {
+                "APIError": "Mohon maaf, saat ini kami tidak dapat melanjutkan aplikasi Anda. Kami akan menghubungi Anda kembali.",
+                "ErrorPageSubTitle": "Lorem ipsum dollar sit amet",
+                "ErrorPageTitle": "Opps. We could not proceed further",
+                "UserBlacklisted": "Mohon maaf, saat ini kami tidak dapat melanjutkan aplikasi Anda. Kami akan menghubungi Anda kembali apabila kami memiliki penawaran yang sesuai.",
+                "UserNotWhitelisted": "Mohon maaf, saat ini kami tidak dapat melanjutkan aplikasi Anda. Kami akan menghubungi Anda kembali apabila kami memiliki penawaran yang sesuai."
+            },
+            "LoanApproval": {
+                "loanApprovalButton": "Activate My Account",
+                "loanApprovalText": "Your application has been approved.",
+                "loanApprovalTitle": "Congratulations!",
+                "loanApprovalValid": "This pre-approval is valid for only 30 days "
+            },
+            "LoanDisbursement": {
+                "loanDisbursementExperience": "How would you rate your overall experience today?",
+                "loanDisbursementRate": "Rate your experience",
+                "loanDisbursementText": "Thank you! Your account has been created and your loan will be disbursed into your Kredivo Line of Credit & Bank Account.",
+                "loanDisbursementTitle": "Loan will be disbursed to your account"
+            },
+            "NotAvailable": {
+                "content": "Device not supported currently, come back later",
+                "title": "Not supported"
+            },
+            "NotFoundPage": {
+                "header": "Page not found."
+            },
+            "OtpErrorPage": {
+                "OtpErrorPageSubText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "OtpErrorPageSubTitle": "Did you enter the right contact number?",
+                "OtpErrorPageText": "We’re here to help you!",
+                "OtpErrorPageTitle": "Did not receive OTP"
+            },
+            "ProcessApplication": {
+                "processApplicationText": "This will approximately takes 3-4 minutes",
+                "processApplicationTitle": "We’re processing your application"
+            },
+            "Registration": {
+                "educationCollegePostgraduate": "College postgraduate",
+                "educationCollegeUndergraduate": "College Undergraduate",
+                "educationDiploma": "Diploma",
+                "educationHighschool": "High School",
+                "educationPreHighschool": "Pre High School",
+                "educationWithoutEducation": "Without education",
+                "employmentStatusFullTime": "Employed: Full time",
+                "employmentStatusPartTime": "Employed: Part time",
+                "employmentStatusSelf": "Self employed",
+                "employmentStatusUnemployed": "Unemployed",
+                "maritalStatusMarried": "Married",
+                "maritalStatusSingle": "Single",
+                "maritalStatusWidow": "Widow",
+                "occupationAgricultrue": "Agriculture",
+                "occupationArmy": "Army",
+                "occupationBusinessOwner": "Business Owner",
+                "occupationCommercial": "Commercial",
+                "occupationEducation": "Education",
+                "occupationFinancial": "Financial",
+                "occupationGovernment": "Government",
+                "occupationHealth": "Health",
+                "occupationLawyer": "Lawyer",
+                "occupationManufacturing": "Manufacturing",
+                "occupationMining": "Mining",
+                "occupationOilGas": "Oil and gas",
+                "occupationOthers": "Others",
+                "occupationPolice": "Police",
+                "occupationPolitician": "Politician",
+                "occupationRealEstate": "Real estate",
+                "occupationSelf": "Self Employed",
+                "occupationServices": "Services",
+                "occupationStudent": "Student",
+                "occupationTrade": "Trade"
+            },
+            "SessionExpired": {
+                "sessionExpiredButton": "Resume journey",
+                "sessionExpiredText": "Log in again with your mobile number to resume your application.",
+                "sessionExpiredTitle": "Session Expired"
+            }
+        }
+    }
+}
